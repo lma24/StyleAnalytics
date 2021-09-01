@@ -1,0 +1,6 @@
+C:\Users\Leena\Desktop\Job Task\BadProject\ThirdParty\bin\Debug\ThirdParty.dll
+C:\Users\Leena\Desktop\Job Task\BadProject\ThirdParty\bin\Debug\ThirdParty.pdb
+C:\Users\Leena\Desktop\Job Task\BadProject\ThirdParty\obj\Debug\ThirdParty.csproj.AssemblyReference.cache
+C:\Users\Leena\Desktop\Job Task\BadProject\ThirdParty\obj\Debug\ThirdParty.csproj.CoreCompileInputs.cache
+C:\Users\Leena\Desktop\Job Task\BadProject\ThirdParty\obj\Debug\ThirdParty.dll
+C:\Users\Leena\Desktop\Job Task\BadProject\ThirdParty\obj\Debug\ThirdParty.pdb

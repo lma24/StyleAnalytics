@@ -1,0 +1,10 @@
+C:\Users\Leena\Desktop\Job Task\BadProject\BadProject\bin\Debug\BadProject.dll.config
+C:\Users\Leena\Desktop\Job Task\BadProject\BadProject\bin\Debug\BadProject.dll
+C:\Users\Leena\Desktop\Job Task\BadProject\BadProject\bin\Debug\BadProject.pdb
+C:\Users\Leena\Desktop\Job Task\BadProject\BadProject\bin\Debug\ThirdParty.dll
+C:\Users\Leena\Desktop\Job Task\BadProject\BadProject\bin\Debug\ThirdParty.pdb
+C:\Users\Leena\Desktop\Job Task\BadProject\BadProject\obj\Debug\BadProject.csproj.AssemblyReference.cache
+C:\Users\Leena\Desktop\Job Task\BadProject\BadProject\obj\Debug\BadProject.csproj.CoreCompileInputs.cache
+C:\Users\Leena\Desktop\Job Task\BadProject\BadProject\obj\Debug\BadProject.csproj.CopyComplete
+C:\Users\Leena\Desktop\Job Task\BadProject\BadProject\obj\Debug\BadProject.dll
+C:\Users\Leena\Desktop\Job Task\BadProject\BadProject\obj\Debug\BadProject.pdb
